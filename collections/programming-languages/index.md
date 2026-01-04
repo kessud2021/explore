@@ -73,6 +73,7 @@ items:
 - ValeLang/Vale
 - factor/factor
 - julelang/jule
+- VSS-CO/Strata
 display_name: Programming languages
 created_by: leereilly
 ---
