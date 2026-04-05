@@ -74,6 +74,7 @@ items:
 - factor/factor
 - julelang/jule
 - kvthweatt/FluxLang
+- oopsio/peel
 display_name: Programming languages
 created_by: leereilly
 ---
